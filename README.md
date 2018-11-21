@@ -1,2 +1,14 @@
-# salesforceTrain
-training repo for first steps using the Salesfroce CLI and Visual Studio Code
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
